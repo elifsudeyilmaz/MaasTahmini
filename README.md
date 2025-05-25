@@ -10,7 +10,7 @@ Gerçek hayatta, bu tür bir sınıflandırma modeli, bankacılıkta kredi riski
 
 ## Kullanılan Veri Seti
 
-- Kaynak: [Adult Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Adult)
+- Kaynak: [Adult Dataset - UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/adult-census-income)
 - Veri yapısı: 48.842 satır, çeşitli sayısal ve kategorik özellikler
 - Özellikler: yaş, iş tipi, eğitim durumu, medeni durum, meslek, cinsiyet, çalışma saatleri vb.
 - Hedef değişken: `income` (gelir >50K veya <=50K)
@@ -106,17 +106,19 @@ Projeyi canlı olarak [Streamlit Uygulaması](https://maastahmini-dtp896frrr64rl
 
 Model, en iyi parametreler ile eğitildi:
 
-- **n_neighbors:** 7  
-- **weights:** distance  
-- **p:** 2 (Euclidean mesafesi)  
+- n_neighbors: 7  
+- weights: distance  
+- p: 2 (Euclidean mesafesi)  
 
 Performans metrikleri test verisinde raporlanabilir (accuracy, f1-score vb.).  
 Model genel olarak gelir sınıflandırmasında dengeli bir performans gösterdi.
+
 ---
 ## Kaggle Notebook Linki
 
 Projeye ait detaylı analiz ve model eğitimi için Kaggle Notebook:  
 ([https://www.kaggle.com/username/adult-income-prediction](https://www.kaggle.com/code/elifsudeyilmaz/maastahmini))  
+
 ---
 
 ## Teşekkürler
