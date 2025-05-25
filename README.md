@@ -100,6 +100,7 @@ Aşağıda her iki modelin performans metriklerinin karşılaştırıldığı ek
 ## Canlı Demo
 
 Projeyi canlı olarak [Streamlit Uygulaması](https://maastahmini-dtp896frrr64rlmanla7es.streamlit.app) üzerinden deneyebilirsiniz.
+
 ---
 ## Performans ve Sonuçlar
 
@@ -111,16 +112,17 @@ Model, en iyi parametreler ile eğitildi:
 
 Performans metrikleri test verisinde raporlanabilir (accuracy, f1-score vb.).  
 Model genel olarak gelir sınıflandırmasında dengeli bir performans gösterdi.
-
+---
 ## Kaggle Notebook Linki
 
 Projeye ait detaylı analiz ve model eğitimi için Kaggle Notebook:  
 ([https://www.kaggle.com/username/adult-income-prediction](https://www.kaggle.com/code/elifsudeyilmaz/maastahmini))  
-
+---
 
 ## Teşekkürler
 
-Bu proje, makine öğrenmesi uygulamalarına giriş ve model geliştirme süreci için güzel bir örnek teşkil etmektedir. Geri bildirim ve katkılarınızı beklerim!
+-Geri bildirim ve katkılarınızı beklerim!
+
 ---
 ## Kullanım
 
